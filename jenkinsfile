@@ -1,7 +1,6 @@
 node {
 	stage('SCM') {
 		echo 'Gathering code from version control'
-		git branch: '${branch}', url: "https://github.com/YuxinLiu076/fun-with-groovy.git"
 	}
     stage('Build') {
         echo 'Building....'
