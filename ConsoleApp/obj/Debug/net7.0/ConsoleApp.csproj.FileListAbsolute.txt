@@ -1,0 +1,14 @@
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/bin/Debug/net7.0/ConsoleApp
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/bin/Debug/net7.0/ConsoleApp.deps.json
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/bin/Debug/net7.0/ConsoleApp.runtimeconfig.json
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/bin/Debug/net7.0/ConsoleApp.dll
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/bin/Debug/net7.0/ConsoleApp.pdb
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/obj/Debug/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/obj/Debug/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/obj/Debug/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/obj/Debug/net7.0/ConsoleApp.dll
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/obj/Debug/net7.0/refint/ConsoleApp.dll
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/obj/Debug/net7.0/ConsoleApp.pdb
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/obj/Debug/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/yuxinliu/Documents/katherine/Jenkins & Groovy/fun-with-groovy/ConsoleApp/obj/Debug/net7.0/ref/ConsoleApp.dll
