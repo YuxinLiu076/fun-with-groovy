@@ -1,10 +1,2 @@
-namespace ConsoleApp
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("I love Groovy!");
-        }
-    }
-}
+// See https://aka.ms/new-console-template for more information
+Console.WriteLine("I love Groovy!");
