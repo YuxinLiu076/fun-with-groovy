@@ -8,7 +8,7 @@ def call(Map config=[:]) {
             try {
                 echo 'Building....'
                 sh 'dotnet --version'
-                sh 'dotnet build ConsoleApp'
+                sh 'dotnet build ' + config.target
                 releasenotes(changes: "true")
             } catch (ex) {
                 echo 'Something went wrong'
