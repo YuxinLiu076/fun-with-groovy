@@ -13,6 +13,14 @@ class PluginCheck {
         internalPlugin = new ArrayList<String>(Jenkins.getInstanceOrNull().pluginManager.plugins).find { x -> x.shortName == this.key }
     }
 
+    Boolean getEnabled(){
+        return internalPlugin.isEnabled();
+    }
+
+    void disable(){
+        internalPlugin.disable();
+    }
+
     String shortName() {
         return internalPlugin.shortName
     }
